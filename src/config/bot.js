@@ -25,7 +25,11 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Official HCD bot",
+        name: "Eagle Reality (EGL) | EST. 2026
+
+Eagle Reality is a growing and professional esports organization built on competition, content creation, and community. Our goal is to provide opportunities for talented players, creators, and staff while maintaining a professional and supportive environment.
+
+Growing the future of esports, one step at a time.",
         // Activity type number (0 = Playing).
         type: 0, 
       },
